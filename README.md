@@ -1,2 +1,2 @@
 # edubrutus
-Resources for kids education.
+Resources for education.
